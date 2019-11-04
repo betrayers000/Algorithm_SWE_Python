@@ -220,5 +220,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-./input.txt
+.input.txt
+input.txt
 # End of https://www.gitignore.io/api/python,pycharm,windows
